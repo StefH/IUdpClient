@@ -3,9 +3,6 @@ This project uses source generation to generate an `IUdpClient` interface and `U
 
 All the methods and properties from the `UdpClient` are replicated to `IUdpClient`.
 
-## NuGet
-[![NuGet Badge](https://img.shields.io/nuget/v/IUdpClient)](https://www.nuget.org/packages/IUdpClient)
-
 ## Usage
 ``` c#
 using System.Net;
