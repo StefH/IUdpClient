@@ -18,7 +18,7 @@
 		<RepositoryType>git</RepositoryType>
 		<RepositoryUrl>https://github.com/StefH/IUdpClient</RepositoryUrl>
 		<PackageReadmeFile>PackageReadme.md</PackageReadmeFile>
-		<PackageIcon>iUdpClient-icon.png</PackageIcon>
+		<PackageIcon>iudpclient-icon.png</PackageIcon>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)' == 'Release'">
